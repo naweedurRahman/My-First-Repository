@@ -1,0 +1,7 @@
+import os
+import time
+
+time.sleep(3)
+os.startfile("Your Path File")
+
+//example os.startfile("D:\File\VideoExample.mp4")
